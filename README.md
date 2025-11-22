@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is David, I am an undergraduate at Fairfield Univesity studying Computer Science and Mathematics.
+
 <!--
 **DRSilb/DRSilb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
