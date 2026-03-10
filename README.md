@@ -4,8 +4,9 @@ My name is David, I am an undergraduate at Fairfield Univesity studying Computer
 
 I've recently finished [MinecraftStatsTracker](https://github.com/DRSilb/MinecraftStatsTracker).
 Visit the site [here](https://minecraftstatstracker.com/).
+I also just added a preview [here](https://map.minecraftstatstracker.com/).
 
-I'm currently working on something new (and studying for finals).
+I'm currently working on learning about self-hosting.
 
 <!--
 **DRSilb/DRSilb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
