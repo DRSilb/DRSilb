@@ -4,7 +4,6 @@ My name is David, I am an undergraduate at Fairfield Univesity studying Computer
 
 I've recently finished [MinecraftStatsTracker](https://github.com/DRSilb/MinecraftStatsTracker).
 Visit the site [here](https://minecraftstatstracker.com/).
-I also just added a preview [here](https://map.minecraftstatstracker.com/).
 
 I'm currently working on learning about self-hosting.
 I am also currently working on making an extension for video downloading on BallerTV.
