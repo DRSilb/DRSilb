@@ -1,26 +1,27 @@
-## Hi there 👋
+## Hi, I'm David 👋
 
-My name is David, I am an undergraduate at Fairfield Univesity studying Computer Science and Mathematics.
+CS + Math double major at Fairfield University (graduating May 2028). I work on applied ML for physical systems: robots, sensors, and the infrastructure that runs them.
 
-I've recently finished [MinecraftStatsTracker](https://github.com/DRSilb/MinecraftStatsTracker).
-Visit the site [here](https://minecraftstatstracker.com/).
+### Current work
 
-I'm currently working on learning about self-hosting.
-I am also currently working on making an extension for video downloading on BallerTV.
-Visit the github page [BallerTV](https://github.com/DRSilb/BallerTV-Video-Downloader).
-It currently works on firefox and chrome and I plan on extending the capabilities of it to stitch m3u8 files in the future.
+**Onboard conversational AI for a humanoid robot** · Undergraduate research with Prof. Sidike Paheding
+A vision-augmented RAG system running entirely on an NVIDIA Jetson AGX Orin for the Booster K1 humanoid, with no cloud dependency. Whisper speech recognition feeds a local Llama 3.1 model (via Ollama), AprilTag detections ground its answers in what the robot sees, and a custom parser syncs gestures with Piper speech output, all in ROS 2. Presented at Fairfield's Summer Research Residency Symposium, July 2026.
 
-<!--
-**DRSilb/DRSilb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Silent speech interface**
+Magnets and an RM3100 magnetometer on an ESP32 capture articulator movement during silent speech, with the goal of decoding it with ML. Early stage.
 
-Here are some ideas to get you started:
+### Infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I run a self-hosted homelab on salvaged hardware: Ubuntu servers, Docker Compose, Caddy + Cloudflare, and Tailscale. It serves 140,000+ requests a month across photo, music, and game servers, plus a Home Assistant dashboard for my dorm.
+
+### Other projects
+
+- [MinecraftStatsTracker](https://github.com/DRSilb/MinecraftStatsTracker): full-stack stats dashboard (Python backend, vanilla JS front-end), [live here](https://minecraftstatstracker.com/)
+- [Business_Data_Viewer](https://github.com/DRSilb/Business_Data_Viewer): interactive Leaflet.js map of 24,227 local businesses
+- [BallerTV Video Downloader](https://github.com/DRSilb/BallerTV-Video-Downloader): browser extension for Chrome and Firefox
+
+### Tech
+
+Python · Java · JavaScript · C · ROS 2 · OpenCV · Docker · Linux
+
+📫 david.silberger@gmail.com · [LinkedIn](https://linkedin.com/in/david-silberger-079b0a344/)
